@@ -1,5 +1,4 @@
-﻿venv/
+venv/
 .env
 __pycache__/
 .ipynb_checkpoints/
-Astronomy_Cosmology_RAG_Reference/
